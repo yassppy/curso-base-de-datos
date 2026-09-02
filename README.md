@@ -27,3 +27,4 @@ pgbot inspect "postgres://usuario:password@localhost:5432/mi_base_de_datos"
 - [Herramienta para creación de diagramas](https://paripsky.github.io/sqlgram/)
 - [Otras para visualización avanzada](https://liambx.com/)
 - [Aprendiendo con Murder Mystery](https://mystery.knightlab.com/) -> Se realizo con duckdb para experimentar un poco con otras herramientas
+- [Compilador de base de datos en el navegador](https://onecompiler.com/)

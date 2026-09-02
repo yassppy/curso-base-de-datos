@@ -1,5 +1,21 @@
 # Curso Base de Datos 2026
 
+## Progreso
+
+Aprendizaje de SQL:
+
+- [x] Fundamentos de SELECT
+- [x] Uniones y valores nulos
+- [x] Agregación y ejecución
+- [x] Manipulación de datos
+- [x] Estructura de tablas
+- [x] SQL avanzado
+- [x] Motores y ecosistema
+
+DuckDB: Para consultas analíticas rápidas
+
+- [x] Ejercicio con el caso de Murder Mystery
+
 ## Configuración
 
 Instalación de pgbot
